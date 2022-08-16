@@ -1,0 +1,24 @@
+body{
+    background-image: url(../img/1920x1200_px_Chess-1345481.jpg!d);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.temporizador{
+    height: 100px;
+    width: 300px;
+    font-size: 40px;
+    border-radius: 30px;
+    color: grey;
+    border: 5px solid gray;
+}
+
+
+
+.botones{
+    border: 3px solid white;
+}
